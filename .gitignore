@@ -1,0 +1,13 @@
+Assembly-CSharp.csproj
+Assembly-CSharp.pidb
+Assembly-CSharp-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor.pidb
+Assembly-CSharp-Editor-vs.csproj
+GS_G.sln
+GS_G.userprefs
+GS_G-csharp.sln
+GS_G.exe
+Temp/
+GS_G_Data/
+Library/
