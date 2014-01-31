@@ -7,7 +7,9 @@ Assembly-CSharp-Editor-vs.csproj
 GS_G.sln
 GS_G.userprefs
 GS_G-csharp.sln
+GS_G-csharp.userprefs
 GS_G.exe
 Temp/
 GS_G_Data/
 Library/
+obj/
